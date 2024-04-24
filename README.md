@@ -1,4 +1,4 @@
-tx store: https://discord.gg/kBJghnXvmP
+tx store: https://discord.gg/txs
 
 new css
 
